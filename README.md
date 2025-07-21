@@ -7,8 +7,9 @@ The decoder simply takes in a list of paths to `.tex` files and outputs a file i
 The version is specified in the first 4 bytes of the file.
 - 1002 ✅
     - NERTS! Online
-- 1004 🟥 ([See here, needs implemented](https://gist.github.com/sigsegv-mvm/0f07b1c6d8dd56885f74e03758c11e58?permalink_comment_id=5031771#gistcomment-5031771))
     - EXAPUNKS
+- 1004 🟥 ([See here, needs implemented](https://gist.github.com/sigsegv-mvm/0f07b1c6d8dd56885f74e03758c11e58?permalink_comment_id=5031771#gistcomment-5031771))
+    - Möbius Front '83
 - 1005 ✅
     - Last Call BBS
     - Zachtronics Solitaire Collection
